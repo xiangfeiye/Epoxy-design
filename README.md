@@ -1,2 +1,2 @@
 # Epoxy-design
-data and code for "Discovery of Performance Frontiers in Thermosetting Polymer Materials through Multi-Objective Bayesian Optimization"
+data and code for "Discovery of Trade-Off Performance Frontiers of Crosslinking Polymers through AI-driven Multi-Objective Bayesian Optimization"
